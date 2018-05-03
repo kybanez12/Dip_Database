@@ -1,0 +1,10 @@
+﻿CREATE TABLE [dbo].[Student]
+(
+	[StudentID] NVARCHAR(10) NOT NULL,
+	[FirstName] NVARCHAR(50) NOT NULL,
+	[LastName] NVARCHAR(50) NOT NULL,
+	[Gender] NVARCHAR(1) NULL,
+	[Mobile] INT NULL,
+	CONSTRAINT PK_STUDENT PRIMARY KEY (StudentID),
+	CONSTRAINT CHK_GENDER CHECK(Gender IN ('M', 'F'))
+)
