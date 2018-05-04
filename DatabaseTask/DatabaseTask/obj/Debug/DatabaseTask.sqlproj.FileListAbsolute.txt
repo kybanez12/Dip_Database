@@ -1,0 +1,6 @@
+C:\Users\STUDENT\KY\DatabaseTask\DatabaseTask\bin\Debug\DatabaseTask.dacpac
+C:\Users\STUDENT\KY\DatabaseTask\DatabaseTask\bin\Debug\DatabaseTask.dll
+C:\Users\STUDENT\KY\DatabaseTask\DatabaseTask\bin\Debug\DatabaseTask.pdb
+C:\Users\STUDENT\KY\DatabaseTask\DatabaseTask\obj\Debug\DatabaseTask.sqlprojResolveAssemblyReference.cache
+C:\Users\STUDENT\KY\DatabaseTask\DatabaseTask\obj\Debug\DatabaseTask.dll
+C:\Users\STUDENT\KY\DatabaseTask\DatabaseTask\obj\Debug\DatabaseTask.pdb
