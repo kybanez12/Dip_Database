@@ -4,3 +4,9 @@ C:\Users\STUDENT\KY\DatabaseTask\DatabaseTask\bin\Debug\DatabaseTask.pdb
 C:\Users\STUDENT\KY\DatabaseTask\DatabaseTask\obj\Debug\DatabaseTask.sqlprojResolveAssemblyReference.cache
 C:\Users\STUDENT\KY\DatabaseTask\DatabaseTask\obj\Debug\DatabaseTask.dll
 C:\Users\STUDENT\KY\DatabaseTask\DatabaseTask\obj\Debug\DatabaseTask.pdb
+D:\Swinburne\Database\DatabaseTask\DatabaseTask\bin\Debug\DatabaseTask.dacpac
+D:\Swinburne\Database\DatabaseTask\DatabaseTask\bin\Debug\DatabaseTask.dll
+D:\Swinburne\Database\DatabaseTask\DatabaseTask\bin\Debug\DatabaseTask.pdb
+D:\Swinburne\Database\DatabaseTask\DatabaseTask\obj\Debug\DatabaseTask.sqlprojResolveAssemblyReference.cache
+D:\Swinburne\Database\DatabaseTask\DatabaseTask\obj\Debug\DatabaseTask.dll
+D:\Swinburne\Database\DatabaseTask\DatabaseTask\obj\Debug\DatabaseTask.pdb

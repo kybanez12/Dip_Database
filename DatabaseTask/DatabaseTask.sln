@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DatabaseTask", "DatabaseTask\DatabaseTask.sqlproj", "{88180249-2435-4CA3-8392-1CA0786EE052}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryAPI", "LibraryAPI\LibraryAPI.csproj", "{5FD99CDC-29B2-4B80-B47D-C171F277F4B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{88180249-2435-4CA3-8392-1CA0786EE052}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88180249-2435-4CA3-8392-1CA0786EE052}.Release|Any CPU.Build.0 = Release|Any CPU
 		{88180249-2435-4CA3-8392-1CA0786EE052}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{5FD99CDC-29B2-4B80-B47D-C171F277F4B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FD99CDC-29B2-4B80-B47D-C171F277F4B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FD99CDC-29B2-4B80-B47D-C171F277F4B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FD99CDC-29B2-4B80-B47D-C171F277F4B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
